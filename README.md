@@ -4,11 +4,12 @@
 
 > 适用于没有语言选项、也没有官方中文包的客户端。左侧栏、顶部菜单、设置全部分页、权限中心、模型与用量、快捷键页等均已汉化（当前词条 **274 条**）。
 
-![汉化前](images/before-en.png)
-![汉化后](images/after-zh-main.png)
-![设置面板](images/after-zh-settings.png)
+![汉化前](images/before-en-main.png)
+![汉化后 · 主界面](images/after-zh-main.png)
+![汉化后 · 设置 - 常规](images/after-zh-settings.png)
+![汉化后 · 设置 - 模型与用量](images/after-zh-models.png)
 
-<sub>截图取自 Antigravity v2.17.0；示例截图里账号区域已打码。</sub>
+<sub>截图取自 Antigravity v2.17.0（1920×1140）；示例截图里的账号区域已打码。</sub>
 
 ---
 
