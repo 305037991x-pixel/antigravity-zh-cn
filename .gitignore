@@ -1,0 +1,12 @@
+# 截图等临时文件
+*.log
+未翻译.txt
+shots/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+Desktop.ini
